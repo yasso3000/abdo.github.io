@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Úַָֿבֽׁדה םַ׃ׁ דֽדֿ ֳֽדֿ - ַב׃םֹׁ ַב׀ַÊםֹ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            text-align: right;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #007ACC;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Úַָֿבֽׁדה םַ׃ׁ דֽדֿ ֳֽדֿ</h1>
+        <h2>ַ־Êױַױם הÙד דÚבזדַÊ ֵַֿׁםֹ</h2>
+        <p>ַבוַÊÝ: +201026624024</p>
+        <p>ַבָׁםֿ ַבֵבßÊׁזהם: abdoarafa9000@gmail.com</p>
+        <p>ַבÚהזַה: ַבÝםזד - ַבּזה¡ װַׁÚ ֳָזßׁ ַבױֿםÞ</p>
+
+        <h2>הÙֹׁ Úַדֹ</h2>
+        <p>ֳÛָׁ - דה דזַבםֿ דַֽÝÙֹ ַבÝםזד Ýם 1/9/1999 - ַֽױב Úבל ָßַבזׁםז׃ הÙד ַבדÚבזדַÊ ַבֵַֿׁםֹ - ַֽױב Úבל ֵÚÝֱַ דה ַבÊּהםֿ - Þַֿׁ Úבל ַבÚדב ײדה ַבÝׁםÞ זַבÊÚַזה דÚ ַבֲ־ׁםה. ַבÞֹֿׁ Úבל ַבÊÚַדב דÚ ַבֳהדַ״ ַבד־ÊבÝֹ דה ַבÚדבֱַ.</p>
+
+        <h2>ַבדוַַׁÊ</h2>
+        <ul>
+            <li>ַבÚדב ײדה ÝׁםÞ</li>
+            <li>ַבÊÚַדב דÚ ַבֳהדַ״ ַבד־ÊבÝֹ דה װ־ױםַÊ ַבÚדבֱַ</li>
+            <li>ַבַוÊדַד ַָבÚדםב</li>
+            <li>׃ׁÚֹ ַבÊÚבד</li>
+            <li>ַבÊֳÞבד Ýם ַבÚדב</li>
+        </ul>
+
+        <h2>ַבÊÚבםד</h2>
+        <p>ָßַבזׁםז׃ הÙד ַבדÚבזדַÊ ַבֵַֿׁםֹ</p>
+        <p>ַבדÚוֿ ַבÚַבם בבַֽ׃ָ ַבֲבם זֵַֹֿׁ ַבֳÚדַב¡ ַבׁׂÞַ - ֿדםַ״¡ 2022</p>
+
+        <h2>ַב־ַָׁÊ</h2>
+        <p>ַבÚדב Ýם דַּב ַבדָםÚַÊ Ýם װׁßֹ ״ָםֹ בבֳבזדהםזד דה 1/7/2022 ֵבל 30/6/2024</p>
+
+        <h2>ַבֿזַׁÊ ַבÊֿׁםָםֹ</h2>
+        <ul>
+            <li>ֳֿזַÊ זז׃ֶַב Êהדםֹ ַבדזַֿׁ ַבדַבםֹ¡ 18/3/2024</li>
+            <li>ֳהדַ״ ַבװ־ױםֹ¡ 19/3/2024</li>
+            <li>First Aid and BLS Course¡ הÞַָֹ ױםַֿבֹ ַבװׁÞםֹ¡ 7/2024</li>
+            <li>Digital Transformation Training¡ 25 םזבםז 2022</li>
+            <li>הֿזֹ ַבםזד ַבזַֽֿ ַָÊַֽֿ הÞַַָÊ Úדַב דױׁ¡ 1/6/2024</li>
+        </ul>
+    </div>
+</body>
+</html>
